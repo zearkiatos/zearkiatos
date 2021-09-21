@@ -1,5 +1,5 @@
 # Hello World! 👋🌎 
-my name is *Pedro Capriles*
+my name is **Pedro Capriles**
 
 # About Me 🤓
 * I'm from Venezuela 🇻🇪 🫓
