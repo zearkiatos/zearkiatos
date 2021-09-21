@@ -17,15 +17,23 @@ My name is **_Pedro Capriles_**
 # Skills ⚔
 ⚛️ ReactJS
 🅰️ Angular
+🟨 JavaScript
 🟢 NodeJS
 🟣 C#
-🔵 PHP
+🐘PHP
+☕️Java
+🟣 NetCore && Net Framework
+🟠Laravel
+🎼Symfony
 🗑 SQL Server
 🍃 MongoDB
-🟡 MySQL
+🔥 Firebase
+🐬 MySQL
 ⚛️ ReactNative
 🔵 Ionic
 🆇 Xamarin
+🐳 Docker
+⚓️ Kubernetes
 
 # Contact
 
