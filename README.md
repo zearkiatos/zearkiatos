@@ -35,8 +35,7 @@ My name is **_Pedro Capriles_**
 🐳 Docker
 ⚓️ Kubernetes
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=zearkiatos&hide=contribs,prs&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zearkiatos&layout=compact&theme=dark)](https://github.com/zearkiatos/github-readme-stats)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=zearkiatos&hide=contribs,prs&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zearkiatos&layout=compact&theme=dark)](https://github.com/zearkiatos/github-readme-stats)
 
 
 # Contact
