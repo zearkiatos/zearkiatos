@@ -32,9 +32,9 @@ My name is **_Pedro Capriles_**
 🍃 MongoDB
 🔥 Firebase
 🐬 MySQL
-⚛️ ReactNative
-🔵 Ionic
-🆇 Xamarin
+⚛️📱 ReactNative
+🔵📱 Ionic
+🆇📱 Xamarin
 🐳 Docker
 ⚓️ Kubernetes
 ✝️ Terraform
