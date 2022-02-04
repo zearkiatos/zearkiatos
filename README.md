@@ -17,7 +17,7 @@ My name is **_Pedro Capriles_**
 * 👨🏻‍💻 Specialist in Software Development
 
 # Skills ⚔
-⚛️ ReactJS
+[![ReactJS](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)]()
 🅰️ Angular
 🟨 JavaScript
 🟢 NodeJS
