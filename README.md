@@ -20,6 +20,7 @@ My name is **_Pedro Capriles_**
 [![ReactJS](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)]()
 [![Angular](https://img.shields.io/badge/angular-c42d30?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000)]()
 [![JavaScript](https://img.shields.io/badge/javascript-ead547?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-2f72bc?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)]()
 [![Node.js](https://img.shields.io/badge/node.js-76c339?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)]()
 [![C#](https://img.shields.io/badge/csharp-8c39ac?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000)]()
 [![PHP](https://img.shields.io/badge/php-7175aa?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)]()
@@ -28,14 +29,20 @@ My name is **_Pedro Capriles_**
 [![Laravel](https://img.shields.io/badge/Laravel-ed3833?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000)]()
 [![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white&labelColor=000000)]()
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-a0231f?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=000000)]()
-🍃 MongoDB
-🔥 Firebase
-🐬 MySQL
-⚛️ ReactNative
-🔵 Ionic
-🆇 Xamarin
-🐳 Docker
-⚓️ Kubernetes
+[![MongoDB](https://img.shields.io/badge/MongoDB-3d8b4d?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)]()
+[![Firebase](https://img.shields.io/badge/firebase-f2c144?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000000)]()
+[![MySQL](https://img.shields.io/badge/MySQL-1f5d85?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)]()
+[![React Native](https://img.shields.io/badge/React%20Native-5ccfee?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)]()
+[![Ionic](https://img.shields.io/badge/Ionic-4683ec?style=for-the-badge&logo=ionic&logoColor=white&labelColor=000000)]()
+[![Ionic](https://img.shields.io/badge/Ionic-4683ec?style=for-the-badge&logo=ionic&logoColor=white&labelColor=000000)]()
+[![Xamarin](https://img.shields.io/badge/Xamarin-3390d0?style=for-the-badge&logo=xamarin&logoColor=white&labelColor=000000)]()
+[![Docker](https://img.shields.io/badge/Docker-3394e0?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)]()
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-2f67da?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)]()
+[![Terraform](https://img.shields.io/badge/Terraform-574ad9?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000000)]()
+[![Azure](https://img.shields.io/badge/Azure-2b83cb?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=000000)]()
+[![AWS](https://img.shields.io/badge/Aws-f2923d?style=for-the-badge&logo=amazon&logoColor=white&labelColor=000000)]()
+[![GCP](https://img.shields.io/badge/GCP-489f50?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=000000)]()
+[![Heroku](https://img.shields.io/badge/Heroku-453a88?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000)]()
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=zearkiatos&hide=contribs,prs&theme=chartreuse-dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zearkiatos&layout=compact&theme=chartreuse-dark&langs_count=10)](https://github.com/zearkiatos/github-readme-stats)
 
