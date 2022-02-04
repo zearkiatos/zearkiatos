@@ -20,22 +20,24 @@ My name is **_Pedro Capriles_**
 ⚛️ ReactJS
 🅰️ Angular
 🟨 JavaScript
+🟦 TypeScript
 🟢 NodeJS
 🟣 C#
 🐘PHP
 ☕️Java
-🟣 NetCore && Net Framework
+🟣 NetCore & Net Framework
 🟠Laravel
 🎼Symfony
 🗑 SQL Server
 🍃 MongoDB
 🔥 Firebase
 🐬 MySQL
-⚛️ ReactNative
-🔵 Ionic
-🆇 Xamarin
+⚛️📱 ReactNative
+🔵📱 Ionic
+🆇📱 Xamarin
 🐳 Docker
 ⚓️ Kubernetes
+✝️ Terraform
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=zearkiatos&hide=contribs,prs&theme=chartreuse-dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zearkiatos&layout=compact&theme=chartreuse-dark&langs_count=10)](https://github.com/zearkiatos/github-readme-stats)
 
