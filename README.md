@@ -7,7 +7,7 @@ My name is **_Pedro Capriles_**
 
 # About Me 🤓
 * I'm from Venezuela 🇻🇪 🫓
-* I'm living in Chile 🇨🇱 📍
+* I live in Chile 🇨🇱 📍
 * 👨🏻‍💻 Developer in Development
 * 🍔 Burger Lover
 * 🎮 Gamer
