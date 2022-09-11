@@ -43,7 +43,7 @@ My name is **_Pedro Capriles_**
 [![GCP](https://img.shields.io/badge/GCP-489f50?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=000000)]()
 [![Heroku](https://img.shields.io/badge/Heroku-453a88?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000)]()
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=zearkiatos&hide=contribs,prs&theme=chartreuse-dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zearkiatos&layout=compact&theme=chartreuse-dark&langs_count=5)](https://github.com/zearkiatos/github-readme-stats)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=zearkiatos&hide=contribs,prs&theme=chartreuse-dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zearkiatos&layout=compact&theme=chartreuse-dark&langs_count=10)](https://github.com/zearkiatos/github-readme-stats)
 
 
 # Contact
