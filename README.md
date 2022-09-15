@@ -14,7 +14,7 @@ My name is **_Pedro Capriles_**
 
 # Education 🎓
 * 🤓 Systems Engineer
-* 👨🏻‍💻 Specialist in Software Development
+* 👨🏻‍💻 Software Development Specialist
 
 # Skills ⚔
 [![ReactJS](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)]()
