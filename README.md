@@ -27,6 +27,7 @@ My name is **_Pedro Capriles_**
 [![Java](https://img.shields.io/badge/java-2e84bd?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)]()
 [![NetCore & Net Framework](https://img.shields.io/badge/netcore%20&%20NET%20Framework-4f3ac9?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=000000)]()
 [![Scala](https://img.shields.io/badge/Scala-df3b39?style=for-the-badge&logo=scala&logoColor=white&labelColor=000000)]()
+[![Python](https://img.shields.io/badge/python-2b5b84?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)]()
 [![Laravel](https://img.shields.io/badge/Laravel-ed3833?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000)]()
 [![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white&labelColor=000000)]()
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-a0231f?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=000000)]()
