@@ -26,7 +26,7 @@ My name is **_Pedro Capriles_**
 ![scrum-master-professional-certificate-smpc](https://user-images.githubusercontent.com/10298615/206524887-92c2a7fb-4b9c-4346-9fd2-2d1e40fb959e.png)
 ![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/10298615/206524913-e332a7ee-64c6-4357-9fc0-35da91f186e6.png)
 
-[![Credly](https://img.shields.io/badge/Credly-ff6b00?style=for-the-badge&logo=credly&logoColor=white)](https://gitlab.com/caprilespe)
+[![Credly](https://img.shields.io/badge/Credly-ff6b00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/pedro-capriles)
 
 # Skills ⚔
 [![ReactJS](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)]()
