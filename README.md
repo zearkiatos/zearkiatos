@@ -16,18 +16,6 @@ My name is **_Pedro Capriles_**
 * 🤓 Systems Engineer
 * 👨🏻‍💻 Software Development Specialist
 
-# Certifications 🏅
-
-![exam-480-programming-in-html5-with-javascript-and-css3](https://user-images.githubusercontent.com/10298615/206523706-8adb8154-a3e3-48bd-8bef-161c8a680644.png)
-![exam-486-developing-asp-net-mvc-web-applications](https://user-images.githubusercontent.com/10298615/206524705-fad97738-9402-45db-ba4f-5e5f861a8ba2.png)
-![exam-487-developing-microsoft-azure-and-web-services](https://user-images.githubusercontent.com/10298615/206524759-7b500ed0-9a3b-48a7-8538-f371cf8d0b71.png)
-![mcsd-app-builder-certified-2016-](https://user-images.githubusercontent.com/10298615/206524819-19592f3e-c9b5-4e4c-8e4b-53ce5627197e.png)
-![mcsa-web-applications-certified-2016](https://user-images.githubusercontent.com/10298615/206524855-f317d008-f2e4-423b-b21e-9584de7e3ca5.png)
-![scrum-master-professional-certificate-smpc](https://user-images.githubusercontent.com/10298615/206524887-92c2a7fb-4b9c-4346-9fd2-2d1e40fb959e.png)
-![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/10298615/206524913-e332a7ee-64c6-4357-9fc0-35da91f186e6.png)
-
-[![Credly](https://img.shields.io/badge/Credly-ff6b00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/pedro-capriles)
-
 # Skills ⚔
 [![ReactJS](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)]()
 [![Angular](https://img.shields.io/badge/angular-c42d30?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000)]()
@@ -59,6 +47,17 @@ My name is **_Pedro Capriles_**
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=zearkiatos&hide=contribs,prs&theme=chartreuse-dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zearkiatos&layout=compact&theme=chartreuse-dark&langs_count=10)](https://github.com/zearkiatos/github-readme-stats)
 
+# Certifications 🏅
+
+![exam-480-programming-in-html5-with-javascript-and-css3](https://user-images.githubusercontent.com/10298615/206523706-8adb8154-a3e3-48bd-8bef-161c8a680644.png)
+![exam-486-developing-asp-net-mvc-web-applications](https://user-images.githubusercontent.com/10298615/206524705-fad97738-9402-45db-ba4f-5e5f861a8ba2.png)
+![exam-487-developing-microsoft-azure-and-web-services](https://user-images.githubusercontent.com/10298615/206524759-7b500ed0-9a3b-48a7-8538-f371cf8d0b71.png)
+![mcsd-app-builder-certified-2016-](https://user-images.githubusercontent.com/10298615/206524819-19592f3e-c9b5-4e4c-8e4b-53ce5627197e.png)
+![mcsa-web-applications-certified-2016](https://user-images.githubusercontent.com/10298615/206524855-f317d008-f2e4-423b-b21e-9584de7e3ca5.png)
+![scrum-master-professional-certificate-smpc](https://user-images.githubusercontent.com/10298615/206524887-92c2a7fb-4b9c-4346-9fd2-2d1e40fb959e.png)
+![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/10298615/206524913-e332a7ee-64c6-4357-9fc0-35da91f186e6.png)
+
+[![Credly](https://img.shields.io/badge/Credly-ff6b00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/pedro-capriles)
 
 # Contact
 
