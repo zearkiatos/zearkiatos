@@ -1,21 +1,26 @@
 # Hello World! 👋🌎 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF703&repeat=false&width=435&lines=My+name+is+Pedro+Capriles)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10298615/134107022-a0a1ce35-b013-4388-931d-cac9b21725f1.gif" alt="programmer" />
 </p>
 
-My name is **_Pedro Capriles_**
-
 # About Me 🤓
-* I'm from Venezuela 🇻🇪 🫓
-* I live in Chile 🇨🇱 📍
-* 👨🏻‍💻 Developer in Development
-* 🍔 Burger Lover
-* 🎮 Gamer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF703&repeat=false&width=435&lines=I'm+from+Venezuela+%F0%9F%87%BB%F0%9F%87%AA+%F0%9F%AB%93)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF703&repeat=false&width=435&lines=I+live+in+Chile+%F0%9F%87%A8%F0%9F%87%B1+%F0%9F%93%8D)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF703&repeat=false&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Developer+in+Development)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF703&repeat=false&width=435&lines=%F0%9F%8D%94+Burger+Lover)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF703&repeat=false&width=435&lines=%F0%9F%8E%AE+Gamer)](https://git.io/typing-svg)
 
 # Education 🎓
-* 🤓 Systems Engineer
-* 👨🏻‍💻 Software Development Specialist
-* 📚 Software Engineering Master degree student
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF703&repeat=false&width=435&lines=%F0%9F%A4%93+Systems+Engineer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF703&repeat=false&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Software+Development+Specialist)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF703&repeat=false&width=435&lines=%F0%9F%93%9A+Software+Engineering+Master+degree+student)](https://git.io/typing-svg)
 
 # Skills ⚔
 [![ReactJS](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)]()
