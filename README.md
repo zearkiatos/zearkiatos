@@ -20,7 +20,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF703&background=52525285&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Software+Development+Specialist)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF703&background=52525285&repeat=false&width=600&height=60&lines=%F0%9F%93%9A+Software+Engineering+Master+degree+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF703&background=52525285&repeat=true&width=600&height=60&lines=%F0%9F%93%9A+Software+Engineering+Master+degree+student)](https://git.io/typing-svg)
 
 # Skills ⚔
 [![ReactJS](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)]()
