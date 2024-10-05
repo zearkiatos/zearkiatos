@@ -43,6 +43,8 @@
 [![Firebase](https://img.shields.io/badge/firebase-f2c144?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000000)]()
 [![MySQL](https://img.shields.io/badge/MySQL-1f5d85?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)]()
 [![SQLite](https://img.shields.io/badge/SQLite-044a64?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000)]()
+[![PostgreSQL](https://img.shields.io/badge/postgresql-699eca?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)]()
+[![MQTT](https://img.shields.io/badge/mqtt-ff8800?style=for-the-badge&logo=mqtt&logoColor=white&labelColor=000000)]()
 [![Android](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white&labelColor=000000)]()
 [![React Native](https://img.shields.io/badge/React%20Native-5ccfee?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)]()
 [![Ionic](https://img.shields.io/badge/Ionic-4683ec?style=for-the-badge&logo=ionic&logoColor=white&labelColor=000000)]()
