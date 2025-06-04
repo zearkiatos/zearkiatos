@@ -70,7 +70,6 @@
 ![exam-487-developing-microsoft-azure-and-web-services](https://user-images.githubusercontent.com/10298615/206524759-7b500ed0-9a3b-48a7-8538-f371cf8d0b71.png)
 ![mcsd-app-builder-certified-2016-](https://user-images.githubusercontent.com/10298615/206524819-19592f3e-c9b5-4e4c-8e4b-53ce5627197e.png)
 ![mcsa-web-applications-certified-2016](https://user-images.githubusercontent.com/10298615/206524855-f317d008-f2e4-423b-b21e-9584de7e3ca5.png)
-![scrum-master-professional-certificate-smpc](https://user-images.githubusercontent.com/10298615/206524887-92c2a7fb-4b9c-4346-9fd2-2d1e40fb959e.png)
 ![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/10298615/206524913-e332a7ee-64c6-4357-9fc0-35da91f186e6.png)
 
 [![Credly](https://img.shields.io/badge/Credly-ff6b00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/pedro-capriles)
