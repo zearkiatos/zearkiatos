@@ -19,11 +19,11 @@
 
 # Education 🎓
 > [!IMPORTANT]  
-> ## 💻⚙️🧩 Systems Engineer
+> ## 💻 Systems Engineer
 >
-> ## 💻🧩🚀 Specialist in Software Development
+> ## 🧑🏻‍💻 Specialist in Software Development
 >
-> ## 🎓🏗️💻 Master of Software Engineering
+> ## ⚙️ Master of Software Engineering
 
 # Skills ⚔
 [![ReactJS](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)]()
